@@ -1,0 +1,19 @@
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+$opened = fopen("./hello.txt", "r") or die("File could not be opened");
+this is what Wrotethis is what Wrotethis is what Wrotethis is what Wrotethis is what Wrotethis is what Wrotethis is what Wrotethis is what Wrotethis is what Wrotethis is what Wrotethis is what Wrotethis is what Wrotethis is what Wrote
